@@ -1,4 +1,4 @@
-#Cloned from alchemy's nft minter tutorial, testing evm nft minting process
+# Cloned from alchemy's nft minter tutorial, testing evm nft minting process
 
 
 # ✅ [Completed] NFT Minter Tutorial
