@@ -1,3 +1,6 @@
+#Cloned from alchemy's nft minter tutorial, testing evm nft minting process
+
+
 # ✅ [Completed] NFT Minter Tutorial
 
 This project contains the COMPLETED files for [Alchemy's NFT Minter tutorial](https://docs.alchemyapi.io/alchemy/tutorials/nft-minter), in which we teach you how to connect your smart contract to your React dApp project by building an NFT Minter using Metamask and Web3. It is best used as a reference.
